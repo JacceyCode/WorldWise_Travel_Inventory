@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Barcelona",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Serpa",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-08-28T23:16:32.195Z",
+      "notes": "",
+      "position": {
+        "lat": "37.99292442616475",
+        "lng": "-7.338867422991547"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Ilaro",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2023-08-28T23:34:06.563Z",
+      "notes": "",
+      "position": {
+        "lat": "6.865625407818897",
+        "lng": "3.010253603211966"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Lagos",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2023-08-28T23:35:08.942Z",
+      "notes": "",
+      "position": {
+        "lat": "6.48224350176103",
+        "lng": "3.34222813070364"
+      },
+      "id": 98443200
+    }
+  ]
+}
